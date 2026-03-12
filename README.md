@@ -24,7 +24,8 @@ const khushi = {
 
   interests: ["Artificial Intelligence", "Machine Learning", "Disaster Tech", "Data Analysis"],
 
-  currently_learning: ["Data Structures & Algorithms", "Advanced SQL","Artificial Intelligence","Machine Learning"  ],
+  currently_learning:
+  ["Data Structures & Algorithms", "Advanced SQL","Artificial Intelligence","Machine Learning"],
 
   recent_project: "AI-powered disaster management platform for India with real-time monitoring",
 
