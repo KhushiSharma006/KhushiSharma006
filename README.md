@@ -2,8 +2,8 @@
 <h2> Hi!👋,
   I'm Khushi Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>B.Tech 3rd Year Student at <a href="https://bbdu.ac.in/">Babu Banarasi Das University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-Based in Lucknow, India 📍
+<p><em>B.Tech 3rd Year Student at <a href="https://bbdu.ac.in/">Babu Banarasi Das University</a></br>
+Based in Lucknow, India. 📍
 
 </em></p>
 
@@ -24,8 +24,7 @@ const khushi = {
 
   interests: ["Artificial Intelligence", "Machine Learning", "Disaster Tech", "Data Analysis"],
 
-  currently_learning:
-  ["Data Structures & Algorithms", "Advanced SQL","Artificial Intelligence","Machine Learning"],
+  currently_learning:["Data Structures & Algorithms", "Advanced SQL","Artificial Intelligence","Machine Learning"],
 
   recent_project: "AI-powered disaster management platform for India with real-time monitoring",
 
