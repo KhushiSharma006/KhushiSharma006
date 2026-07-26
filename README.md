@@ -18,20 +18,35 @@ Based in Lucknow, India. 📍
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+```javascript
 const khushi = {
-  
-  technical_background: ["C", "C++", "Java", "Python", "SQL", "Web Development", "Git&Github"],
 
-  interests: ["Artificial Intelligence", "Machine Learning", "Disaster Tech", "Data Analysis"],
+  role: "AI & ML Enthusiast | B.Tech CSE Student",
 
-  currently_learning:["Data Structures & Algorithms", "Advanced SQL","Artificial Intelligence","Machine Learning"],
+  languages: ["Python", "C", "C++", "Java", "SQL", "HTML", "CSS", "JavaScript"],
 
-  recent_project: "AI-powered disaster management platform for India with real-time monitoring",
+  libraries: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Scikit-learn", "NLTK", "spaCy"],
+
+  frameworks: ["Streamlit"],
+
+  ai_ml: ["Machine Learning", "NLP", "Data Analysis", "EDA", "Data Visualization", "Feature Engineering", "TF-IDF", "Model Evaluation", "Model Deployment"],
+
+  tools: ["Git", "GitHub", "Jupyter Notebook", "VS Code"],
+
+  interests: ["Artificial Intelligence", "Machine Learning", "Healthcare AI", "Disaster Intelligence", "Data Science"],
+
+  currently_learning: ["Data Structures & Algorithms", "Machine Learning", "Deep Learning"],
+
+  featured_projects: ["AI-Based Disaster Early Warning Platform", "AI Medical Diagnosis Assistant", "Sentiment Analysis", "Car Price Prediction"],
+
+  fun_fact: "I debug faster after convincing myself it's definitely not my code."
 
   contact: "khushisharma.ks656@gmail.com"
 }
+
+ 
 ```
 
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<b>Let's connect!</b> I promise I'm friendlier than my compiler errors. ☕
