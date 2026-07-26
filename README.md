@@ -2,7 +2,7 @@
 <h2> Hi!👋,
   I'm Khushi Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>B.Tech 3rd Year Student at <a href="https://bbdu.ac.in/">Babu Banarasi Das University</a></br>
+<p><em>B.Tech 4th Year Student at <a href="https://bbdu.ac.in/">Babu Banarasi Das University</a></br>
 Based in Lucknow, India. 📍
 
 </em></p>
