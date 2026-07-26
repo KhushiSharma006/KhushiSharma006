@@ -1,11 +1,17 @@
 
-<h2> Hi!👋,
-  I'm Khushi Sharma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
+  Hello World! I'm Khushi Sharma
+</h2>
 
-<p><em>B.Tech 4th Year Student at <a href="https://bbdu.ac.in/">Babu Banarasi Das University</a></br>
-Based in Lucknow, India. 📍
-
-</em></p>
+<p>
+🚀 AI & ML • 🧩 DSA • 🌐 Full-Stack Development
+<br><br>
+I enjoy building intelligent applications, strengthening my problem-solving skills through Data Structures & Algorithms, and creating scalable web solutions.
+<br><br>
+🎓 Final Year B.Tech CSE @ <a href="https://bbdu.ac.in/">Babu Banarasi Das University</a><br>
+📍 Lucknow, India 🇮🇳
+</p>
 
 
 <a href="https://www.linkedin.com/in/khushisharma006/">
@@ -39,7 +45,7 @@ const khushi = {
 
   featured_projects: ["AI-Based Disaster Early Warning Platform", "AI Medical Diagnosis Assistant", "Sentiment Analysis", "Car Price Prediction"],
 
-  fun_fact: "I debug faster after convincing myself it's definitely not my code."
+  fun_fact: "🐛 I debug faster after convincing myself it's definitely not my code. 🤷‍♀️"
 
   contact: "khushisharma.ks656@gmail.com"
 }
